@@ -1,0 +1,47 @@
+
+[ Fri May 21 19:12:15 2021 ]: Drank Water
+[ Fri May 21 19:13:04 2021 ]: Drank Water
+[ Fri May 21 19:13:38 2021 ]: Relaxation of Eyes Done
+[ Fri May 21 19:14:03 2021 ]: Drank Water
+[ Fri May 21 19:14:26 2021 ]: Physical Exercise Done
+[ Sat May 22 13:02:27 2021 ]: Drank Water
+[ Sat May 22 13:06:41 2021 ]: Relaxation of Eyes Done
+[ Sat May 22 13:21:41 2021 ]: Physical Exercise Done
+[ Sat May 22 13:28:02 2021 ]: Drank Water
+[ Sat May 22 13:36:15 2021 ]: Relaxation of Eyes Done
+[ Sat May 22 13:54:02 2021 ]: Drank Water
+[ Sat May 22 14:05:51 2021 ]: Relaxation of Eyes Done
+[ Sat May 22 14:08:02 2021 ]: Physical Exercise Done
+[ Sat May 22 14:20:09 2021 ]: Drank Water
+[ Sat May 22 14:36:14 2021 ]: Relaxation of Eyes Done
+[ Sat May 22 14:46:07 2021 ]: Drank Water
+[ Sat May 22 14:50:46 2021 ]: Physical Exercise Done
+[ Sat May 22 15:11:46 2021 ]: Drank Water
+[ Sat May 22 15:35:45 2021 ]: Physical Exercise Done
+[ Sat May 22 15:37:54 2021 ]: Drank Water
+[ Sat May 22 16:04:30 2021 ]: Drank Water
+[ Sat May 22 16:20:52 2021 ]: Physical Exercise Done
+[ Sat May 22 16:30:00 2021 ]: Drank Water
+[ Sun May 23 12:30:11 2021 ]: Drank Water
+[ Sun May 23 12:34:17 2021 ]: Relaxation of Eyes Done
+[ Sun May 23 12:50:33 2021 ]: Physical Exercise Done
+[ Sun May 23 12:56:03 2021 ]: Drank Water
+[ Sun May 23 13:04:39 2021 ]: Relaxation of Eyes Done
+[ Sun May 23 13:22:38 2021 ]: Drank Water
+[ Sun May 23 13:35:44 2021 ]: Relaxation of Eyes Done
+[ Sun May 23 13:35:48 2021 ]: Physical Exercise Done
+[ Sun May 23 13:48:00 2021 ]: Drank Water
+[ Sun May 23 14:03:54 2021 ]: Relaxation of Eyes Done
+[ Sun May 23 16:59:10 2021 ]: Drank Water
+[ Sun May 23 17:03:37 2021 ]: Relaxation of Eyes Done
+[ Sun May 23 17:18:57 2021 ]: Physical Exercise Done
+[ Sun May 23 17:27:06 2021 ]: Drank Water
+[ Sun May 23 17:33:33 2021 ]: Relaxation of Eyes Done
+[ Sun May 23 17:51:14 2021 ]: Drank Water
+[ Sun May 23 18:03:01 2021 ]: Relaxation of Eyes Done
+[ Sun May 23 18:03:04 2021 ]: Physical Exercise Done
+[ Sun May 23 20:28:26 2021 ]: Drank Water
+[ Sun May 23 20:29:15 2021 ]: Drank Water
+[ Sun May 23 20:29:19 2021 ]: Relaxation of Eyes Done
+[ Sun May 23 20:30:15 2021 ]: Drank Water
+[ Sun May 23 20:30:21 2021 ]: Physical Exercise Done
